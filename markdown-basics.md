@@ -105,7 +105,10 @@ Por exemplo, para criar um hiperlink para www.github.com, com um texto de link q
 ###Veja também
 
 GitHub Flavored Markdown
+
 Writing on GitHub
+
 Mastering Markdown
+
 
 
